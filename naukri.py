@@ -4,7 +4,7 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # import scraped data
-df = pd.read_csv("C:\Users\alpan\Documents\naukri_file\Naukri_streamlit_app\Naukari_data.csv")
+df = pd.read_csv("Naukari_data.csv")
 #print(df)
 
 #checking null value and clean the data
