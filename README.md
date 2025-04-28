@@ -55,7 +55,7 @@ It provides dynamic, interactive dashboards to understand job market trends like
 - Streamlit app link - "https://naukriappapp-8ku9u2uhglsaojgc6yqjyu.streamlit.app/"
 
 ### My Dashboard
-![Dashboard Screenshot]- image/dashboard.png
+![Dashboard Screenshot]-(image/dashboard.png)
 
 
 
