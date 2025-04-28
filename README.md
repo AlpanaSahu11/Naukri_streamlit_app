@@ -18,11 +18,15 @@ It provides dynamic, interactive dashboards to understand job market trends like
 - Seaborn
 - Streamlit
 - Git / GitHub
+- Selenium
+- Html
+- Css
+
 
 ---
 
 ## 📈 Features
-
+- ✅ Extract data from the website 
 - ✅ Data Cleaning and Preprocessing
 - ✅ Dynamic Sidebar Filters (Job Title, Experience Range)
 - ✅ Salary Distribution by Job Title (Box Plot)
@@ -47,7 +51,5 @@ It provides dynamic, interactive dashboards to understand job market trends like
 
 ## 🚀 How to Run Locally
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/Naukri_streamlit_app.git
-   cd Naukri_streamlit_app
+
+- Streamlit app link - 
